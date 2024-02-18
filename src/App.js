@@ -1,4 +1,4 @@
-import HomePage from "./pages/home";
+import HomePage from "./pages/home/index";
 import SearchPage from "./pages/search";
 import PetDetailsPage from "./pages/detail";
 import PetDetailsNotFound from "./pages/petDetailsNotFound";
